@@ -7,4 +7,4 @@ The link YouTube to preview: [youtube]
 
 
 [itch.io]: https://thugamecoi.itch.io/hungry-in-dungeon
-[youtube]: [https://www.youtube.com/channel/UCoKzMLiskORnz6Kvx1QrW5Q](https://www.youtube.com/watch?v=xOzkLuTj0VM)https://www.youtube.com/watch?v=xOzkLuTj0VM
+[youtube]: https://www.youtube.com/channel/UCoKzMLiskORnz6Kvx1QrW5Q](https://www.youtube.com/watch?v=xOzkLuTj0VM)https://www.youtube.com/watch?v=xOzkLuTj0VM
